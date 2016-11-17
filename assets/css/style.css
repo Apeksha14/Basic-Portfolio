@@ -82,8 +82,8 @@ nav{
 
 a{
 
-	padding:5px;
 	font-size: 18px ;
+	padding: 5px;
 	color:#777777;
 	text-decoration: none;
 }
@@ -92,7 +92,6 @@ aside{
 
 	position: absolute;
 	z-index: 1;
-
 
 }
 #bio-image{
@@ -145,10 +144,9 @@ p{
 #link-image,
 #so-image
 {
-
-	height:70px;
-	width:70px;
-	padding:5px;
+	margin-top: 10px;
+	height:62px;
+	width:62px;
 
 }
 
@@ -284,7 +282,7 @@ aside{
 	background-color: #4aaaa5;
 	color:#ffffff;
 	text-align: center;
-	margin-top: 140px;
+	margin-top: 150px;
 	z-index: 2;
 
 }
@@ -299,7 +297,7 @@ aside{
 	font-family: "Georgia","Times New Roman",Times,serif;
 	font-size: 22px;
 	padding-top: 10px;
-	margin-top: 140px;
+	margin-top: 150px;
 	text-align: center;
 	padding-left: 20px;
 	margin-left: 40px;
@@ -320,7 +318,7 @@ aside{
 	background-color: #4aaaa5;
 	color:#ffffff;
 	text-align: center;
-	margin-top: 140px;
+	margin-top: 150px;
 	z-index: 2;
 	
 }
